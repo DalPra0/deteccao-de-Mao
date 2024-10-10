@@ -1,5 +1,3 @@
-Aqui está o README atualizado, contendo as informações para ambos os códigos, Python e C++:
-
 # Hand Tracking and Finger Counting
 
 Este projeto é uma aplicação de rastreamento de mãos e contagem de dedos em tempo real utilizando as bibliotecas OpenCV e MediaPipe para Python, e uma versão alternativa em C++ usando apenas OpenCV. A aplicação captura imagens da webcam, detecta as mãos presentes, desenha as conexões das mãos na tela e conta quantos dedos estão levantados em cada mão.
